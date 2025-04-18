@@ -17,7 +17,7 @@ How many would you like to reserve for normal operation? (Default is reserve 1 c
 Downloading https://github.com/hellcatz/hminer/releases/download/v0.59.1/hellminer_win64_avx2.zip.
 Installing to C:\Users\Matthew Hyclak\AppData\Local\Hellminer.
 Configuring Pool to stratum+tcp://verus.jellyfc.com:3092.
-Configuring Wallet as RMAwUFvGmRuS8CrMPk2xbendoEGYQUT6kT.pegasus.
+Configuring Wallet as myveruswalletaddress.computername.
 Configuring 30 CPU Cores for mining.
 **********************************************************************************
 ```
