@@ -4,7 +4,7 @@ Configuration scripts for setting up Hellminer
 ## Windows
 
 1. Start Powershell as an Administrator
-2. Run hellminer-setup.ps1
+2. Run [hellminer-setup.ps1](./hellminer-setup.ps1)
 3. Answer the questions
 ```powershell
 PS C:\Users\Matthew Hyclak\scripts> .\hellminer-setup.ps1
