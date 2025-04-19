@@ -23,3 +23,7 @@ Configuring 30 CPU Cores for mining.
 ```
 
 The script will create a scheduled task that runs at startup that will launch the run_miner.ps1 file located in the Installation Directory.
+
+## Questions?
+
+Reach out to me on the [JellyFC Discord](https://discord.gg/YVd5444uZ2) @DigitalDumber
